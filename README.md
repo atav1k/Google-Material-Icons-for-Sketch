@@ -2,7 +2,7 @@
 
 Google Material Icons for Sketch is a Google icon set for Sketch App. These are originally from Google library, which I'll try to keep updated.
 
-![](http://i.imgur.com/Q1jDsdh.png)
+![](http://i.imgur.com/FVXkIBw.png)
 
 ---------------------------------------
 
