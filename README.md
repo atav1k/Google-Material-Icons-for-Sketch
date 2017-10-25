@@ -41,5 +41,5 @@ A HUGE Thanks [imaaronjames](https://github.com/imaaronjames) and [jpwain](https
 * Some of the the icons found at the official Google Material Icons website, don't match the .svg/.png files, when downloaded. (i.e. ic_person_pin, and almost every ic_sentiment); I've manually fixed them. You can still find the "outdated" versions of those same icons in the file.
 * ic_photo_filter updated
 
-####v1.5 - Symbols Library
+####v1.5 - Symbols Library by [atav1k](https://github.com/atav1k)
 * Created symbols to use with Sketch Libraries feature
